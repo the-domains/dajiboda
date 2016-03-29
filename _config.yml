@@ -1,0 +1,28 @@
+name: DajiBoda
+favicon: null
+layout_spectrum: 0.731801760615781
+typography_spectrum: 0.33123813243582845
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.4187418236397207
+  lightness: 0.8234882159158587
+  saturation: 0.5736864481586963
+  rhythmicContrast: 0.7615656170528382
+purpose: []
